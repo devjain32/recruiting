@@ -39,7 +39,6 @@ Edit `.env` and add your GitHub token:
 
 ```env
 GITHUB_TOKEN=ghp_your_token_here
-LOCATION_FILTER=India,Bangalore,Mumbai,Hyderabad
 MIN_CONTRIBUTIONS=1
 ACTIVE_WITHIN_MONTHS=12
 ```
