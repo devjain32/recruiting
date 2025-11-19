@@ -1,0 +1,266 @@
+Username,Name,Email,Location,Company,Bio,Twitter,Blog/Website,GitHub Profile,Repository,Total Contributions,Commits,Pull Requests,Issues,Notable Contributions (Sample),First Contribution,Last Contribution,Data Fetched At
+KATT,Alex / KATT,alexander@n1s.se,"Malmö, Sweden",,"Fully stacked typescripter.
+@tRPC creator. 
+Been coding for 20+ years. 
+""KATT"" means cat in Swedish.",alexdotjs,https://katt.dev,https://github.com/KATT,trpc/trpc,2077,2005,71,1,Prefix query key 2 | simplify | Issues/6962,2025-02-13,2025-10-25,2025-11-07
+juliusmarminge,Julius Marminge,,Sweden,,Software Engineering student at Blekinge Institute of Technology.,jullerino,www.jumr.dev,https://github.com/juliusmarminge,trpc/trpc,283,261,22,0,fix: set target to ensure we support React Native | fix: correct order in exports condition | refactor: swap rollup with native rolldown (using tsdown),2025-02-17,2025-06-14,2025-11-07
+renovate[bot],,,,,,,,https://github.com/apps/renovate,trpc/trpc,95,0,95,0,chore(deps): update dependency vite to v6.4.1 [security] | chore(deps): update dependency dotenv to v17 | chore(deps): update dependency @octokit/graphql to v9,2025-02-14,2025-10-21,2025-11-07
+Nick-Lucas,Nick Lucas,,London,,"tRPC Core, among other things and having a day job 🥸",NckLcs,,https://github.com/Nick-Lucas,trpc/trpc,57,39,18,0,fix(tanstack-react-query): keyPrefix of undefined | Export octet types | feat(tanstack-react-query): Add QueryKey and MutationKey Prefix option,2025-02-18,2025-10-28,2025-11-07
+ixahmedxi,Ahmed Elsakaan,ahmedtarek3214@gmail.com,"London, United Kingdom",,"Frontend web developer, passionate about making really cool web apps.",ixahmedxii,https://elsakaan.dev,https://github.com/ixahmedxi,trpc/trpc,49,48,1,0,feat(www): adds llms txt files,2025-05-11,2025-05-11,2025-11-07
+sachinraja,Sachin Raja,me@sachinraja.com,California,,,s4chinraja,sachinraja.com,https://github.com/sachinraja,trpc/trpc,34,34,0,0,,,,2025-11-07
+kamilogorek,Kamil Ogórek,kamil.ogorek@gmail.com,"Kraków, Poland",@supabase ,Trying to make people's lives easier. API Lead Engineer at @supabase. Previously @getsentry.,kamilogorek,https://kamilogorek.com,https://github.com/kamilogorek,trpc/trpc,23,23,0,0,,,,2025-11-07
+jlalmes,James Berry,,"London, UK",@provinceinnovation,@trpc maintainer - now building something new 👷🚧,jlalmes,https://jamesbe.com,https://github.com/jlalmes,trpc/trpc,20,20,0,0,,,,2025-11-07
+bautistaaa,,,"Los Angeles, CA",Netflix,engineer @ netflix,typeheroapp,www.typehero.dev,https://github.com/bautistaaa,trpc/trpc,17,17,0,0,,,,2025-11-07
+amirhhashemi,Amir Hossein Hashemi,,,,,,,https://github.com/amirhhashemi,trpc/trpc,16,16,0,0,,,,2025-11-07
+mmkal,Misha Kaletsky,,London,,Doing things @ iterate.com,mmkalmmkal,https://mmkal.com,https://github.com/mmkal,trpc/trpc,16,12,4,0,more validators.md udpates | fix: recognize `effect` standard-schema parsers 3.14.2 | docs: update effect example,2025-02-24,2025-03-26,2025-11-07
+jussisaurio,Jussi Saurio,,Tampere,Turso,keyboard monkey,jussisaur,,https://github.com/jussisaurio,trpc/trpc,15,15,0,0,,,,2025-11-07
+c-ehrlich,Christopher Ehrlich,ehrlich.christopher@gmail.com,"Vienna, Austria",@axiomhq,,ccccjjjjeeee,c-ehrlich.dev,https://github.com/c-ehrlich,trpc/trpc,13,13,0,0,,,,2025-11-07
+rhenriquez28,Roy Henriquez,roy.henriquez@gmail.com,Panama,,,rhenriquez28,,https://github.com/rhenriquez28,trpc/trpc,11,11,0,0,,,,2025-11-07
+bennettdams,Bennett Dams,,Germany,,"Full Stack, with a love for React & TypeScript.",,,https://github.com/bennettdams,trpc/trpc,10,10,0,0,,,,2025-11-07
+JoshuaKGoldberg,Josh Goldberg ✨,github@joshuakgoldberg.com,"Wakefield, MA, USA",,"Full time open source 💖✨ 
+
+@typescript-eslint maintainer; 
+@LearningTypeScript author;
+Microsoft MVP 🌟",JoshuaKGoldberg,http://www.joshuakgoldberg.com,https://github.com/JoshuaKGoldberg,trpc/trpc,10,10,0,0,,,,2025-11-07
+oleasteo,Ole Asteo,,Germany,,,,,https://github.com/oleasteo,trpc/trpc,8,8,0,0,,,,2025-11-07
+hmatthieu,,,,,,,,https://github.com/hmatthieu,trpc/trpc,8,4,4,0,"fix(client): do not emit ""connecting"" when initializing websocket subscription | Update wsLink.md (documentation) | fix(wsLink): wsLink should await for connectionParams before sending …",2025-02-18,2025-10-01,2025-11-07
+iduuck,nick,,"Düsseldorf, Germany",,type-safety anarchist,,,https://github.com/iduuck,trpc/trpc,7,7,0,0,,,,2025-11-07
+neo773,,,,,,n3o773,https://huzef.com,https://github.com/neo773,trpc/trpc,7,7,0,0,,,,2025-11-07
+QuiiBz,Tom Lienard,tom.lienrd@gmail.com,London,@vercel,"Developer, enjoying Cloud and Open Source. Compute @vercel. Founder of @lagonapp",tomlienard,https://tom.lnrd.fr,https://github.com/QuiiBz,trpc/trpc,7,7,0,0,,,,2025-11-07
+JonParton,Jon Parton,,"Vancouver, CA",,Proud Geek - Code Dabbler - (He / Him) ,jonparton,www.linkedin.com/in/jonathanparton/,https://github.com/JonParton,trpc/trpc,7,7,0,0,,,,2025-11-07
+colinhacks,Colin McDonnell,,"Seattle, WA",,I have come here to chew bubblegum and write code. And _InsufficientBubblegumException_,colinhacks,https://colinhacks.com,https://github.com/colinhacks,trpc/trpc,7,7,0,0,,,,2025-11-07
+colelawrence,Cole Lawrence,cole@colelawrence.com,,,,refactorordie,https://colelawrence.com,https://github.com/colelawrence,trpc/trpc,6,6,0,0,,,,2025-11-07
+Sheraff,Flo,fpellet@ensc.fr,"Paris, France",,,,https://florianpellet.com,https://github.com/Sheraff,trpc/trpc,6,6,0,0,,,,2025-11-07
+nilskj,Nils Kjellman,nilskjellman@gmail.com,Gothenburg,Queenslab,"Software Engineer @polestar based in Göteborg, Sweden",nils_kjellman,www.nisse.tech,https://github.com/nilskj,trpc/trpc,6,6,0,0,,,,2025-11-07
+jgoux,Julien Goux,hi@jgoux.dev,"Lyon, France",@supabase,Happy software engineer,_jgx_,jgoux.dev,https://github.com/jgoux,trpc/trpc,6,6,0,0,,,,2025-11-07
+yspreen,Nick Spreen,,NYC,,Open for projects. Check my linkedin. (see yspreen.com),,yspreen.com,https://github.com/yspreen,trpc/trpc,6,2,2,2,docs: Add clarifying paragraph about streaming for tanstack prefetch. | Make opts optional in trpcSubscriptionOptions. | bug: subscriptionOptions causes a crash without second parameter,2025-04-01,2025-04-04,2025-11-07
+ARAldhafeeri,Ahmed Rakan ,AR.Aldhafeeri11@gmail.com,,,Software Engineer,,,https://github.com/ARAldhafeeri,trpc/trpc,6,2,3,1," new way to integrate AsyncLocalStorage  | fix: make self-signed test certificate generation cross-platform compatible |  fixed vitest.config.ts windows path error, backward comatible ensure…",2025-07-05,2025-08-07,2025-11-07
+Nsttt,Néstor,,"Galicia, Spain",@zephyrcloudio @BlacktarHQ,"Software Architect, OSS enthusiast and Typescript Wizard 🧙 ",nstlopez,https://nstlopez.com,https://github.com/Nsttt,trpc/trpc,5,5,0,0,,,,2025-11-07
+mozzius,Samuel Newman,,London / UK,@bluesky-social,,mozzius,,https://github.com/mozzius,trpc/trpc,5,5,0,0,,,,2025-11-07
+tomheaton,Tom Heaton,,United Kingdom,@sparklayer-io,software engineer,,tomheaton.dev,https://github.com/tomheaton,trpc/trpc,5,5,0,0,,,,2025-11-07
+Katli95,Ketill Antoníus Ágústsson,ketill95@gmail.com,"Reykjavík, Iceland",,,,,https://github.com/Katli95,trpc/trpc,5,4,0,1,bug: custom classes violated during `httpBatchStreamLink` encoding,2025-07-16,2025-07-16,2025-11-07
+omar-dulaimi,Omar Dulaimi,,Jordan,,Full Stack Software Engineer,omardulaimidev,,https://github.com/omar-dulaimi,trpc/trpc,5,4,1,0,"Add trpc-shield, prisma-trpc-generator and prisma-trpc-shield-generator to Awesome Collection",2025-08-07,2025-08-07,2025-11-07
+y-nk,Julien Barbay,,"Bangkok, Thailand",@taskworld ,,y_nk,,https://github.com/y-nk,trpc/trpc,5,0,1,4,feat: add precondition required response code | bug: wrong types in the new trpc react-query client | feat: PRECONDITION_REQUIRED (428) error,2025-07-18,2025-09-22,2025-11-07
+simonedelmann,Simon Edelmann,,,,,,,https://github.com/simonedelmann,trpc/trpc,4,4,0,0,,,,2025-11-07
+skovhus,Kenneth Skovhus,,"Copenhagen, Denmark",@linear,"Engineering at Linear.app. Dad, wannabe pizza-baker and music nerd.",kenneth_skovhus,https://skovhus.dev,https://github.com/skovhus,trpc/trpc,4,4,0,0,,,,2025-11-07
+fabian-hiller,Fabian Hiller,,"New York, US",usemotion.com,"Creator of Valibot, creator of Formisch, co-creator of Standard Schema and engineer at Motion",FabianHiller,https://megalink.io/fabian,https://github.com/fabian-hiller,trpc/trpc,4,4,0,0,,,,2025-11-07
+mohammed-bahumaish,Mohammed Bahumaish,,"Cairo, Egypt.",Buildpilot.ai,Software engineer,,https://bahumaish.com/,https://github.com/mohammed-bahumaish,trpc/trpc,4,3,1,0,fix(docs): update Prisma Editor link in awesome-trpc.mdx,2025-05-04,2025-05-04,2025-11-07
+jonluca,JonLuca De Caro,hello@jonlu.ca,"San Francisco, CA",,founder @weights-ai ,jonluca,https://jonlu.ca,https://github.com/jonluca,trpc/trpc,4,3,0,1,bug: v11.4.0 cannot be bundled using react native,2025-06-12,2025-06-12,2025-11-07
+cobeo2004,Simon Nguyen,,"Australia, VIC",Unibuz Pty Ltd.,"current: Go, TS, Elixir, Kotlin and Python
+
+SWE@Unibuz ",,,https://github.com/cobeo2004,trpc/trpc,4,2,2,0,docs(example): Contribute trpc-fastify as example boilerplate code | docs(contribute): Update trpc-redis for the library adapters,2025-03-18,2025-03-19,2025-11-07
+wobsoriano,Robert Soriano,,,,swe @Clerk,wobsoriano,https://robsoriano.com,https://github.com/wobsoriano,trpc/trpc,4,2,2,0,chore(examples): Update Nuxt example to use Nuxt v4 | chore(examples): Add Nuxt minimal example,2025-03-23,2025-10-24,2025-11-07
+alan345,Alan Szternberg,alan345@gmail.com,San Francisco,NachoNacho.com,CTO @nachonacho-inc ,AlanSten,https://nachonacho.com,https://github.com/alan345,trpc/trpc,4,2,2,0,Update awesome-trpc.mdx | Update awesome-trpc.mdx,2025-04-04,2025-04-04,2025-11-07
+spookyuser,,,ZZ9 Plural Z Alpha,,This might get weird,spookyusr,,https://github.com/spookyuser,trpc/trpc,4,2,2,0,docs: Add skiptoken example | @trpc/upgrade: Fix error when running git check-ignore with 0 ignored files,2025-04-01,2025-07-04,2025-11-07
+dBianchii,Gabriel Bianchi,,,,Software Engineer based in Brazil with a passion for open-source and Typescript.,gdbianchii,gabrielbianchi.com,https://github.com/dBianchii,trpc/trpc,4,2,0,2,bug: Switched to client rendering because the server rendering errored:  UNAUTHORIZED | bug: loggerLink pollutes Next.js devtools with console.error for natural developer-thrown errors,2025-10-03,2025-10-03,2025-11-07
+anatolzak,Anatol Zakrividoroga,,,,"Staff Software Engineer, Tech Lead, OSS Contributor",anatolzakr,anatolz.com,https://github.com/anatolzak,trpc/trpc,4,2,1,1,fix(client): omit content type header in GET requests | bug: GET requests should not include the Content-Type request header,2025-08-25,2025-08-25,2025-11-07
+tresorama,Jacopo Marrone,jacopo.marrone.work@gmail.com,Italy,,web developer | dev blogger.,,jacopomarrone.netlify.app,https://github.com/tresorama,trpc/trpc,4,0,2,2,docs: enhance `docs/server/non-json-content-types` page | docs: add link to `@trpc/tanstack-react-query` as recommended react usage in quickstart page | bug: cannot narrow input types of `useMutation(trpc...).mutate(INPUT)`  - cannot overwrite `mutationoptions.mutationFn` (`@trpc/tanstack-react-query`),2025-04-28,2025-05-24,2025-11-07
+simonecervini,Simone Cervini,simone@simonecervini.dev,Italy,@epilot-dev,Full Stack Engineer,simonecervini,https://simonecervini.dev,https://github.com/simonecervini,trpc/trpc,3,3,0,0,,,,2025-11-07
+toyamarinyon,toyamarinyon,toyamarinyon@gmail.com,Japan,"ROUTE06, Inc.",,,https://sat0shi.dev/,https://github.com/toyamarinyon,trpc/trpc,3,3,0,0,,,,2025-11-07
+skarab42,Sébastien Mischler,skarab@bluewin.ch,,@Infomaniak,In JavaScript We Trust // Mangeur de code @infomaniak,,https://www.twitch.tv/skarab42/,https://github.com/skarab42,trpc/trpc,3,3,0,0,,,,2025-11-07
+OrJDev,,,,,,OrJDevv,,https://github.com/OrJDev,trpc/trpc,3,3,0,0,,,,2025-11-07
+lukahartwig,Luka Hartwig,,Hamburg,@vercel,"TypeScript, Go, Rust.",lukahartwig,https://lukahartwig.de,https://github.com/lukahartwig,trpc/trpc,3,3,0,0,,,,2025-11-07
+dyaa,Dyaa,,"De Randstad, Nederland",,I have worked for everything. I am self-made and proud of it 🤘 Self-taught software engineer 🤓,dyaa_me,https://dyaa.me,https://github.com/dyaa,trpc/trpc,3,3,0,0,,,,2025-11-07
+echocrow,Crow,,,,,,,https://github.com/echocrow,trpc/trpc,3,3,0,0,,,,2025-11-07
+austins,Austin S.,,,@gamebyline,Software engineer.,SmoothNanners,https://austinsdev.com/portfolio,https://github.com/austins,trpc/trpc,3,3,0,0,,,,2025-11-07
+luixo,Alexey Immoreev,lexx92@mail.ru,Tbilisi,Neon,Frontend Developer,,,https://github.com/luixo,trpc/trpc,3,3,0,0,,,,2025-11-07
+thisduck,Adnan Ali,adnan.ali@gmail.com,Toronto,,,thisduck,http://blog.jaaduhai.com,https://github.com/thisduck,trpc/trpc,3,3,0,0,,,,2025-11-07
+romanzy313,Roman,,,,,,,https://github.com/romanzy313,trpc/trpc,3,2,1,0,Core websockets implementation,2025-03-27,2025-03-27,2025-11-07
+bnussman,Banks Nussman,banks@nussman.us,"Raleigh, NC",@linode ,"Software Engineer @akamai @linode 
+
+Work account: @bnussman-akamai ",bnussman,https://nussman.us,https://github.com/bnussman,trpc/trpc,3,2,1,0,fix(client): Websocket not reconnecting when lazy is enabled ,2025-03-27,2025-03-27,2025-11-07
+cameronmema,Cameron Mema,,,,,,,https://github.com/cameronmema,trpc/trpc,3,0,2,1,feat: New trpc docs | feat: add new documentation [WIP] | bug: since TRPC v11.5.0 errors on createTRPCOptionsProxy are broken and not typed properly,2025-06-28,2025-09-22,2025-11-07
+barelyhuman,Siddharth Gelera (reaper),ahoy@barelyhuman.dev,India,@usebruno,just another developer,barelyreaper,http://reaper.is,https://github.com/barelyhuman,trpc/trpc,3,0,3,0,feat: add ts program scanner for import paths | fix: remove the need for flags  | refactor: make walkers to follow Tail-call pattern,2025-02-13,2025-02-19,2025-11-07
+IlyaSemenov,Ilya Semenov,ilya@semenov.co,,,Full stack web developer looking for a job.,,,https://github.com/IlyaSemenov,trpc/trpc,3,0,0,3,feat: customize lastEventId input field name | bug: DataTransformer type is not exported | feat: overwrite input in middleware,2025-08-14,2025-09-13,2025-11-07
+nexxeln,Shoubhit Dash,shoubhit2005@gmail.com,terminal,@t3-oss,slow vim user,nexxeln,nexxel.dev,https://github.com/nexxeln,trpc/trpc,2,2,0,0,,,,2025-11-07
+saisrikardumpeti,Sai Srikar Dumpeti,,India,Student,"Learner ✌️
+C.S.E. - BIT Mesra 22-26.
+",,https://saisrikardumpeti.me/,https://github.com/saisrikardumpeti,trpc/trpc,2,2,0,0,,,,2025-11-07
+SSHari,Sai Hari,thesshguy@gmail.com,,,"I think, therefore I program.",TheSSHGuy,https://thesshguy.com/,https://github.com/SSHari,trpc/trpc,2,2,0,0,,,,2025-11-07
+aphex,Ross Gerbasi,rgerbasi@gmail.com,Chicago,Sencha,,,www.rossgerbasi.com,https://github.com/aphex,trpc/trpc,2,2,0,0,,,,2025-11-07
+RhysSullivan,Rhys Sullivan,,San Francisco,Vercel,,RhysSullivan,rhys.dev,https://github.com/RhysSullivan,trpc/trpc,2,2,0,0,,,,2025-11-07
+PeerRich,Peer Richelsen,peer@cal.com,,@calcom ,Co-Founder cal.com,peer_rich,https://cal.com/peer,https://github.com/PeerRich,trpc/trpc,2,2,0,0,,,,2025-11-07
+NiklasPor,Niklas,niklaspor@gmail.com,Germany,@LastBIM,Founder at @lastbim ,niklaspor,https://lastbim.com,https://github.com/NiklasPor,trpc/trpc,2,2,0,0,,,,2025-11-07
+nicolassanmar,Nicolás San Martín,,,,,,,https://github.com/nicolassanmar,trpc/trpc,2,2,0,0,,,,2025-11-07
+milohansen,Milo Hansen,github@milo.codes,Boston,Avanade,,,,https://github.com/milohansen,trpc/trpc,2,2,0,0,,,,2025-11-07
+mgreenw,Max Greenwald,,"Portland, ME",Paperless Post,Node.js + React Enthusiast + Full-Stack TypeScripter 👾 and Bass 🎙/🎸 ,,https://maxgreenwald.me,https://github.com/mgreenw,trpc/trpc,2,2,0,0,,,,2025-11-07
+MatyiFKBT,,,Hungary,,,,,https://github.com/MatyiFKBT,trpc/trpc,2,2,0,0,,,,2025-11-07
+GerryWilko,Gerard Wilkinson,,"Manchester, UK",@think-active-labs,Head of Engineering at Think Active Labs,,,https://github.com/GerryWilko,trpc/trpc,2,2,0,0,,,,2025-11-07
+BeBoRE,Ayrton-Taede Tromp,ayrton@bebore.com,Netherlands,,,,,https://github.com/BeBoRE,trpc/trpc,2,2,0,0,,,,2025-11-07
+mkosir,Marko Kosir,kosir.mar@gmail.com,,Sticker Mule,TypeScript / Node / React / Docker / AI,,https://mkosir.net,https://github.com/mkosir,trpc/trpc,2,2,0,0,,,,2025-11-07
+AlexXanderGrib,Alexander G.,me@alexxgrib.me,Podolsk,,,,https://alexxgrib.me,https://github.com/AlexXanderGrib,trpc/trpc,2,2,0,0,,,,2025-11-07
+spirobel,,,Berlin,,,,spirobel.github.io,https://github.com/spirobel,trpc/trpc,2,2,0,0,,,,2025-11-07
+hussamkhatib,Hussam Khatib,hussamkhatib20@gmail.com,"Sharjah, United Arab Emirates",,,hussamkhatib3,,https://github.com/hussamkhatib,trpc/trpc,2,2,0,0,,,,2025-11-07
+hypnodron,,,,,,,,https://github.com/hypnodron,trpc/trpc,2,2,0,0,,,,2025-11-07
+brian-bourdon,,,,,,,,https://github.com/brian-bourdon,trpc/trpc,2,2,0,0,,,,2025-11-07
+nohum,Wolfgang Gaar,,Austria,IMC GmbH,,,,https://github.com/nohum,trpc/trpc,2,2,0,0,,,,2025-11-07
+vafanassieff,Victor Afanassieff,victor@afanassieff.com,Paris - Chamonix,@ln-markets ,Co-Founder https://lnmarkets.com/,afalol,https://victor.afanassieff.com,https://github.com/vafanassieff,trpc/trpc,2,2,0,0,,,,2025-11-07
+titouancreach,Titouan CREACH,,"Lorient, France",,"🇫🇷 Full stack developer, functional programming lover.
+
+C# / TypeScript / SQL",,,https://github.com/titouancreach,trpc/trpc,2,2,0,0,,,,2025-11-07
+thomas-coldwell,Thomas Coldwell,,Isle of Man,Infinium,Fullstack engineer specialising in React and React Native. Graduated in Mechatronic Engineering BEng,thomas_iom,thomascoldwell.dev,https://github.com/thomas-coldwell,trpc/trpc,2,2,0,0,,,,2025-11-07
+ThomasCode92,Thomas,,"Hoeselt, Belgium",Enervalis / ABB E-Mobility,💻 Software Engineer at ABB E-mobility 🔋🔌,ThomasCode92,,https://github.com/ThomasCode92,trpc/trpc,2,2,0,0,,,,2025-11-07
+samal-rasmussen,Sámal Rasmussen,samal84@gmail.com,"Tórshavn, Faroe Islands",@bokin-fo ,Software developer,,,https://github.com/samal-rasmussen,trpc/trpc,2,2,0,0,,,,2025-11-07
+henrikvtcodes,Henrik VT,,Northeast USA,"@verso-uvm, @uvmcscrew","dev & transit enthusiast
+",,https://henrikvt.com,https://github.com/henrikvtcodes,trpc/trpc,2,2,0,0,,,,2025-11-07
+MoustaphaDev,Happydev,,,,"Freelancer, Open source Lover, Full-stack Developer, Maintainer @withastro 🚀",a_happy_dev,,https://github.com/MoustaphaDev,trpc/trpc,2,2,0,0,,,,2025-11-07
+gunhaxxor,Gunnar Oledal,,Sweden,,,,,https://github.com/gunhaxxor,trpc/trpc,2,2,0,0,,,,2025-11-07
+ergusto,Fergus Ruston,,"Oxford, United Kingom",Nearform,Senior Developer at @NearForm ,,http://www.ergusto.com,https://github.com/ergusto,trpc/trpc,2,2,0,0,,,,2025-11-07
+Lilja,Erik Lilja,,"Stockholm, Sweden",@funnel-io ,Full stack developer at Funnel.io,,,https://github.com/Lilja,trpc/trpc,2,2,0,0,,,,2025-11-07
+darioielardi,Dario Ielardi,dario.ielardi@gmail.com,Rome,,Fullstack Web & Mobile Developer / Traveler ,darioielardi,https://darioielardi.dev,https://github.com/darioielardi,trpc/trpc,2,2,0,0,,,,2025-11-07
+charkour,Charles Kornoelje,,"Grand Rapids, MI",,christian. web dev. ,,charlie.social,https://github.com/charkour,trpc/trpc,2,2,0,0,,,,2025-11-07
+bnrosa,Bernardo Rosa,,Remote,,Software Engineer,bnrosa_dev,,https://github.com/bnrosa,trpc/trpc,2,2,0,0,,,,2025-11-07
+ahmedhesham6,Ahmed Hesham Abdelkader,,"Cairo, Egypt",Stakpak,,,,https://github.com/ahmedhesham6,trpc/trpc,2,2,0,0,,,,2025-11-07
+AyanavaKarmakar,Ayanava Karmakar,karmakarayanava2021@gmail.com,"Kolkata, India",,,,rbbtz.in,https://github.com/AyanavaKarmakar,trpc/trpc,2,2,0,0,,,,2025-11-07
+iuioiua,Asher Gomez,,"Sydney, Australia",,I'm just a confusing sequence of vowels.,,,https://github.com/iuioiua,trpc/trpc,2,2,0,0,,,,2025-11-07
+andykenward,Andy Kenward,,"London, UK",@starlingbank,Software Engineer,,https://unlike.dev,https://github.com/andykenward,trpc/trpc,2,2,0,0,,,,2025-11-07
+MatsDK,MatsDK,,,KU Leuven,,,,https://github.com/MatsDK,trpc/trpc,2,2,0,0,,,,2025-11-07
+mwarger,Mat Warger,,"Castle Rock, CO",Farsight Software,"Coder and life-long student. React, GraphQL, cloud. 
+ Sometimes I think too much on the weekends. ",mwarger,https://mw.codes,https://github.com/mwarger,trpc/trpc,2,2,0,0,,,,2025-11-07
+MarcGuiselin,Marc Guiselin,,Netherlands,,"A disenchanted web dev, now turned rustacean. Building new-gen tools for self-reliance and artistic independence.",,guiselin.com,https://github.com/MarcGuiselin,trpc/trpc,2,2,0,0,,,,2025-11-07
+dzhu,Danny Zhu,,,,,,,https://github.com/dzhu,trpc/trpc,2,0,1,1,fix: prefer Standard Schema for input/output type inference | feat: migrate to Zod v4 ways of retrieving input/output types,2025-08-08,2025-08-11,2025-11-07
+heitorlisboa,Heitor Lisboa,,"RS, Gramado",,Creating great user experiences for the web.,,,https://github.com/heitorlisboa,trpc/trpc,2,0,1,1,feat: add custom type-safe errors | feat: custom type-safe errors,2025-06-22,2025-06-29,2025-11-07
+Dxig,Dxig,,,,Concise & Efficient & Reliable,,,https://github.com/Dxig,trpc/trpc,2,0,1,1,fix(server): reproduce fastify MaxListenersExceededWarning | bug: MaxListenersExceededWarning: Possible EventEmitter memory leak detected. to console,2025-06-25,2025-06-26,2025-11-07
+goszczynskip,Goszczu,,Poznań,@tonik,,,,https://github.com/goszczynskip,trpc/trpc,2,0,1,1,fix: missing export from internal package | bug: The inferred type of 'createCaller' cannot be named without a reference to ...,2025-06-25,2025-06-25,2025-11-07
+darkobits,Joshua,,"San Francisco, CA",,,,https://joshua.dev,https://github.com/darkobits,trpc/trpc,2,0,1,1,fix: `useSubscription` calls `onConnectionStateChange` | bug: `useSubscription` never calls `onConnectionStateChange`,2025-04-10,2025-05-30,2025-11-07
+alonzuman,alonzuman,,New York,,engineer • designer,alonzuman,alonzuman.com,https://github.com/alonzuman,trpc/trpc,2,0,1,1,feat: add support for 402 http response status code #6795 | feat: add support for 402 http response status code,2025-05-30,2025-05-30,2025-11-07
+DawidWraga,Dawid,,"Loughborough, United Kingdom",Ream,Full-stack Web Dev | Typescript - React - Next.js ,,,https://github.com/DawidWraga,trpc/trpc,2,0,1,1,pass mutation key to on sucess override | feat: add mutation args to useMutation onSucess override,2025-04-21,2025-04-21,2025-11-07
+cmanou,Christopher M,,Australia,@Twine-AI ,,,,https://github.com/cmanou,trpc/trpc,2,0,1,1,fix(`server/aws-lambda`): Update cookie splitting for lambda adapter | bug: v11.4.0+ Incompatible types in monorepo due to .mjs and .cjs imports and moduleResolution,2025-02-27,2025-07-01,2025-11-07
+safareli,Irakli Safareli,,,,Digging deeper into fantasy land of functional programing,safareli,safareli.com,https://github.com/safareli,trpc/trpc,2,0,1,1,docs: (procedures.md) use query instead of mutation for whoami | feat: limit batch size on serverside,2025-02-20,2025-05-23,2025-11-07
+AkisArou,Adam Karafyllidis,,"Didymoteicho, Greece",,,ArouAkis,,https://github.com/AkisArou,trpc/trpc,2,0,0,2,bug: Unstable streaming responses with httpBatchStreamLink on React Native / Expo | bug: httpBatchStreamLink: React Native (Expo) stream ends with TypeError while same stream works in web (Vite),2025-09-22,2025-11-05,2025-11-07
+enricoros,Enrico Ros,enrico.ros@gmail.com,California,,"Token magician ✨ Fuse, melt, forge, ship, and build the world",,,https://github.com/enricoros,trpc/trpc,2,0,0,2,"bug: on the client, httpBatchStreamLink throws an 'undefined' error when edge function streams are terminated | bug: HTTP Batch Stream Link exceptions on Vercel Edge runtime",2025-05-26,2025-10-27,2025-11-07
+marcospgp,Marcos Pereira,,Portugal,,,marcospereeira,marcospereira.me,https://github.com/marcospgp,trpc/trpc,2,0,0,2,feat: Distinguish handled and unhandled exceptions | docs: error handling docs incomplete,2025-09-14,2025-09-14,2025-11-07
+bwalendz,Brian Walendzinski,,US,,Software Engineering Leader,,,https://github.com/bwalendz,trpc/trpc,1,0,1,0,fix: add minimal url validation to httpLink options,2025-11-06,2025-11-06,2025-11-07
+bsdahl,Benjamin Dahl,,Pacific Northwest,@foyyay ,Senior Software Engineer,,https://bsdahl.github.io/,https://github.com/bsdahl,trpc/trpc,1,0,1,0,docs(tanstack-react-query): :memo: Add documentation for infiniteQueryKey and infiniteQueryFilter,2025-11-04,2025-11-04,2025-11-07
+KitsuneKode,Manash Pratim Bhuyan,bhuyanmanash2002@gmail.com,,,"Fail fast. Learn fast. Improve fast Repeat
+",KitsuneKode,,https://github.com/KitsuneKode,trpc/trpc,1,0,1,0,Add new tRPC Monorepo Boilerplate link,2025-10-12,2025-10-12,2025-11-07
+wszgrcy,chen,wszgrcy@gmail.com,qingdao,,,,,https://github.com/wszgrcy,trpc/trpc,1,0,1,0,fix: fastify form-data type,2025-10-06,2025-10-06,2025-11-07
+cogwirrel,Jack Stevenson,,Sydney,AWS,Software Engineer - AWS Prototyping,,jack.st/evenson,https://github.com/cogwirrel,trpc/trpc,1,0,1,0,Add Nx Plugin for AWS to Awesome tRPC Collection,2025-09-28,2025-09-28,2025-11-07
+elrion018,Jaemin Cheon,,"서울특별시 관악구, 중구","한국외국어대학교, CJ OliveYoung","나에게 나무를 자를 여섯 시간을 준다면, 나는 먼저 네 시간을 도끼를 날카롭게 하는 데에 쓰겠다.",,https://velog.io/@elrion018,https://github.com/elrion018,trpc/trpc,1,0,1,0,chore(examples): remove unused observable import from minimal ,2025-09-06,2025-09-06,2025-11-07
+jansepke,Jan Sepke,,"Hamburg, Germany",Jungheinrich Digital Solutions,,,https://jansepke.de/,https://github.com/jansepke,trpc/trpc,1,0,1,0,fix(server): fix property in JSDoc,2025-09-05,2025-09-05,2025-11-07
+BhaskarKulshrestha,Bhaskar Kulshrestha,,,SAP,@SAP  Fullstack web Developer || Programmer || C++ || Problem Solver || AI and ML Enthusiast|| Currently learning backend,,https://bhaskarkulshresthaportfolio.onrender.com/,https://github.com/BhaskarKulshrestha,trpc/trpc,1,0,1,0,fix: export DataTransformer interface marked as @public,2025-09-04,2025-09-04,2025-11-07
+monam2,Changwoo Kang,kangcw0107@gmail.com,Seoul,dozn,"Pixel by pixel, function by function.",,,https://github.com/monam2,trpc/trpc,1,0,1,0,fix: export DataTransformer type from @trpc/server and @trpc/client,2025-09-03,2025-09-03,2025-11-07
+KostyaTretyak,Костя Третяк,,"Kharkiv, Ukraine",,,,,https://github.com/KostyaTretyak,trpc/trpc,1,0,1,0,docs:  incorrect file order in code example in 'merging-routers.md',2025-08-27,2025-08-27,2025-11-07
+Strajk,Pavel 'Strajk' Dolecek,strajk@me.com,"Brno, Czech Republc",YOLO ltd.,I like telling computers what to do,straaajk,www.strajk.me,https://github.com/Strajk,trpc/trpc,1,0,1,0,docs: Fix broken documentation links to RPC TypeScript definitions,2025-08-25,2025-08-25,2025-11-07
+cademis,Chris Aitken,,,,,,,https://github.com/cademis,trpc/trpc,1,0,1,0,docs: Correct typo in usage.mdx,2025-08-23,2025-08-23,2025-11-07
+theoludwig,Théo LUDWIG,contact@theoludwig.fr,"Alsace, France",,Developer Full Stack • Open-Source Enthusiast,theoludwig_,theoludwig.fr,https://github.com/theoludwig,trpc/trpc,1,0,1,0,docs(adapters/fastify): usage of routerOptions,2025-08-22,2025-08-22,2025-11-07
+cristijigau,Cristian,,,,Developer 🚀,,/cristijigau,https://github.com/cristijigau,trpc/trpc,1,0,1,0,"docs: fix typo to use ""validated"" instead of ""validate"" in input comment",2025-08-17,2025-08-17,2025-11-07
+iboughtbed,iboughtbed,,,,,iboughtbed,https://sanzhar.xyz,https://github.com/iboughtbed,trpc/trpc,1,0,1,0,docs: add trpc-to-mcp in awesome-trpc.mdx,2025-08-08,2025-08-08,2025-11-07
+mrlubos,Lubos,lubos@heyapi.dev,,@hey-api,Generating SDKs at @hey-api 👨‍🚀,,lmen.us,https://github.com/mrlubos,trpc/trpc,1,0,1,0,Add oRPC to tRPC Community Extensions,2025-08-06,2025-08-06,2025-11-07
+0xlakshan,Lakshan Perera,,"🏝️ Colombo , Sri Lanka",,AI Engineer,tecchirp,https://0xlakshan.github.io,https://github.com/0xlakshan,trpc/trpc,1,0,1,0,fix(docs): update broken link in docs,2025-07-21,2025-07-21,2025-11-07
+dugajean,Dugi,,,,"I'm a Full-Stack Web Developer. Mainly working with TypeScript. Focused on NodeJS backends, GraphQL and React.",,,https://github.com/dugajean,trpc/trpc,1,0,1,0,add new extension row to extensions table,2025-07-02,2025-07-02,2025-11-07
+ebg1223,Ethan Greenfeld,,,,,,,https://github.com/ebg1223,trpc/trpc,1,0,1,0,feat: add trpc-navigation-plugin to awesome,2025-07-01,2025-07-01,2025-11-07
+noahgsolomon,noah,,san francisco,@fal-ai,wagmi,noahgsolomon,,https://github.com/noahgsolomon,trpc/trpc,1,0,1,0,Update awesome-trpc.mdx to include Deep Fish,2025-06-15,2025-06-15,2025-11-07
+bene,Benedict Allerberger,me@bene.dev,Vienna,,html go <br><br><br>,,bene.dev,https://github.com/bene,trpc/trpc,1,0,1,0,chore(www): fix link,2025-06-12,2025-06-12,2025-11-07
+jackall3n,Jack Allen,,Brighton,,"Web monkey 🐒
+
+@houstn @pillowcase-io @alivelyio ",,https://jck.ai,https://github.com/jackall3n,trpc/trpc,1,0,1,0,docs: update devalue repo url,2025-06-03,2025-06-03,2025-11-07
+cooolbros,Revan,pfwobcke@gmail.com,"Sydney, Australia",,,pfwobcke,,https://github.com/cooolbros,trpc/trpc,1,0,1,0,Export types SubscriptionResolver and ResolverDef,2025-06-03,2025-06-03,2025-11-07
+smcroissant,Sam,samuel.s.mamane@gmail.com,France,,,smcroissant,,https://github.com/smcroissant,trpc/trpc,1,0,1,0,Update awesome-trpc.mdx,2025-06-02,2025-06-02,2025-11-07
+ammarmbe,Ammar Elbehery,ammarelbehery04@gmail.com,"Cairo, Egypt",,,,ambe.dev,https://github.com/ammarmbe,trpc/trpc,1,0,1,0,Update enviroment variable in Tanstack Start example,2025-06-01,2025-06-01,2025-11-07
+cibelius,Cihan Bebek,cihan.m.bebek@gmail.com,"Tampere, Finland",OpenCRVS,"As a child my first words were: ""var app = require(‘express’);"" 🤓
+
+Tech Lead @ OpenCRVS",,,https://github.com/cibelius,trpc/trpc,1,0,1,0,Switch jlalmes/trpc-openapi reference to mcampa/trpc-to-openapi,2025-05-26,2025-05-26,2025-11-07
+catvec,,,,,,,,https://github.com/catvec,trpc/trpc,1,0,1,0,Update error-handling docs to explain how to change errors.,2025-05-26,2025-05-26,2025-11-07
+braden-w,Braden Wong,,San Francisco,@epicenter-md,,braden_wong_,,https://github.com/braden-w,trpc/trpc,1,0,1,0,refactor(server): simplify error creation from unknown causes,2025-05-24,2025-05-24,2025-11-07
+levirs565,Levi Rizki Saputra,,"Pacitan, Jawa Timur, Indonesia",,,levirs565,https://www.levirs.my.id,https://github.com/levirs565,trpc/trpc,1,0,1,0,fix(tanstack-react-quey): Ensure TRPC Tanstack React Query receives raw values from Vue ref inputs in Vue Query,2025-05-22,2025-05-22,2025-11-07
+escwxyz,Jae,hi@jiewa.ng,"Düsseldorf, Germany",,It's a merged account.,escw_xyz,https://jiewa.ng/,https://github.com/escwxyz,trpc/trpc,1,0,1,0,fix(docs): update a code snippet for tanstack query,2025-05-12,2025-05-12,2025-11-07
+torres-engineer,João Augusto Costa Branco Marado Torres,torres.dev@disroot.org,,,,,https://github.com/torres-engineer,https://github.com/torres-engineer,trpc/trpc,1,0,1,0,feat: tanstack-solid-query based on tanstack-react-query,2025-05-03,2025-05-03,2025-11-07
+paulopontovaz,Paulo Vaz,,"Karlsruhe, Germany",Volocopter GmbH,,,,https://github.com/paulopontovaz,trpc/trpc,1,0,1,0,docs(suspense): fix 'preformance' typo,2025-04-25,2025-04-25,2025-11-07
+jfgilmore,Joshua F Gilmore,,"Ballarat, VIC, Australia",,"Former management professional & jack-of-all-trades now a software developer.
+@coderacademy fast track grad.",,jfgilmore.com,https://github.com/jfgilmore,trpc/trpc,1,0,1,0,docs: fix reference to `retryDelay` in client docs,2025-04-16,2025-04-16,2025-11-07
+runiqx,runiqxxx,,Japan,,"Passionate about building innovative solutions with code.🚀
+
+Currently diving into full-stack development with Node.js, Remix, and TypeScript.🌍️",,,https://github.com/runiqx,trpc/trpc,1,0,1,0,Feat/remix example,2025-04-12,2025-04-12,2025-11-07
+nisabmohd,Mohd. Nisab,nisabmohd@gmail.com,"Hyderabad, India",Juspay,Abstractions are like spices . you don't want too much ✌️,MohdNisab,https://nisabmohd.vercel.app,https://github.com/nisabmohd,trpc/trpc,1,0,1,0,[DOCS] Fixed tanstack setup next page,2025-04-12,2025-04-12,2025-11-07
+rynobax,Ryan Baxley,,San Francisco,@kapwing,,,https://baxley.dev/,https://github.com/rynobax,trpc/trpc,1,0,1,0,feat(client): add `retryDelayMs`-option to `retryLink`,2025-04-10,2025-04-10,2025-11-07
+goknsh,Akaanksh Raj,,,,:),,ark.black,https://github.com/goknsh,trpc/trpc,1,0,1,0,fix(client): sseStreamConsumer to use instance's properties instead of global,2025-04-09,2025-04-09,2025-11-07
+rtrampox,Isaque,me@rtrampox.dev,Belo Horizonte - Brazil,,,,,https://github.com/rtrampox,trpc/trpc,1,0,1,0,docs: update data transformers to include devalue,2025-04-09,2025-04-09,2025-11-07
+ssalbdivad,David Blass,david@arktype.io,"Boston, MA",ArkType,"Full-time open source dev and author of @arktypeio, TypeScript's 1:1 validator optimized from editor to runtime ⛵",ssalbdivad,https://arktype.io,https://github.com/ssalbdivad,trpc/trpc,1,0,1,0,test: add initial type instantiation benchmarks,2025-04-06,2025-04-06,2025-11-07
+zirkelc,Chris,chris@zirkelc.dev,Germany,Flyweight.io,,zirkelc_,https://zirkelc.dev,https://github.com/zirkelc,trpc/trpc,1,0,1,0,feat: support lambda response streaming,2025-04-06,2025-04-06,2025-11-07
+dishafaujdar,disha,,India,,"I build.
+",maidishahoon,https://dishafaujdar.me,https://github.com/dishafaujdar,trpc/trpc,1,0,1,0,Align index number with text for smaller devices,2025-03-26,2025-03-26,2025-11-07
+michalbundyra,Michał Bundyra,contact@webimpress.com,"Manchester, UK",,,,,https://github.com/michalbundyra,trpc/trpc,1,0,1,0,Fix typo in v11 migration guide,2025-03-22,2025-03-22,2025-11-07
+barrenechea,Sebastian Barrenechea,,"Santiago, Chile",,Hey! Some portion of my brain is in here 👀,SBarrenechea,https://www.barrenechea.cl,https://github.com/barrenechea,trpc/trpc,1,0,1,0,chore(@trpc/next): non-strict nextjs version,2025-03-11,2025-03-11,2025-11-07
+Antraxmin,Chaemin-Lim ,antraxmin@naver.com,Seoul,NHN Cloud,,,,https://github.com/Antraxmin,trpc/trpc,1,0,1,0,docs: add section on handling TRPCClientError in the tRPC client,2025-03-11,2025-03-11,2025-11-07
+solidw,Taewan Go,,서울특별시,@tossplace ,,,https://solidw.github.io,https://github.com/solidw,trpc/trpc,1,0,1,0,fix(docs): Fix createContextInner in server/context.md,2025-02-27,2025-02-27,2025-11-07
+haldunanil,Haldun Anil,,"New York, NY",@braze-inc ,MIT '15. NYC. Staff Eng @braze-inc. TypeScript fan. React fanatic. World traveler. Electronic music enthusiast.,,https://www.haldunanil.com,https://github.com/haldunanil,trpc/trpc,1,0,1,0,Add missing imports to docs for server-components,2025-02-22,2025-02-22,2025-11-07
+olup,Olup,,,@askmona,,,,https://github.com/olup,trpc/trpc,1,0,1,0,feat: offer an alternative lambda streaming adapter,2025-02-20,2025-02-20,2025-11-07
+lemoscaio,Caio Lemos,caio_lemos94@hotmail.com,"Sao Paulo, Brazil",,Full-stack Software Engineer 💻 and coffee lover ☕,,www.youtube.com/graduacaonerd,https://github.com/lemoscaio,trpc/trpc,1,0,1,0,fix(docs): add missing word so the sentence makes sense,2025-02-19,2025-02-19,2025-11-07
+ryanwashburne,Ryan Washburne,,"San Francisco, CA",,,,https://linkedin.com/in/ryanwashburne,https://github.com/ryanwashburne,trpc/trpc,1,0,1,0,Update setup.mdx,2025-02-19,2025-02-19,2025-11-07
+baitemir-a,Baitemir,,Bishkek,,JavaScript developer,,https://baitemir.netlify.app,https://github.com/baitemir-a,trpc/trpc,1,0,1,0,Feat: Add default types to MutationLike,2025-02-17,2025-02-17,2025-11-07
+hamza512b,Hamza Khuswan,hamzakhuswan@outlook.com,Sweden,,Web Developer,hamza512b,https://hamza.se,https://github.com/hamza512b,trpc/trpc,1,0,0,1,feat: allow users to customize http response more,2025-11-06,2025-11-06,2025-11-07
+kangkangowo,,,,,,,,https://github.com/kangkangowo,trpc/trpc,1,0,0,1,bug: Error when removing baseUrl - unstable-core-do-not-import type issue,2025-11-06,2025-11-06,2025-11-07
+k-ahlawat,,,,,,,,https://github.com/k-ahlawat,trpc/trpc,1,0,0,1,"bug: Unable to infer `Prisma.JsonValue` properly, TypeScript says Type instantiation is excessively deep and possibly infinite",2025-11-05,2025-11-05,2025-11-07
+blaku69,blaku,blakusuport@gmail.com,Rochester MN,Another Axiom,make things to make other things simple,,https://github.com/blaku69,https://github.com/blaku69,trpc/trpc,1,0,0,1,bug: hi,2025-11-01,2025-11-01,2025-11-07
+testerez,Tom Esterez,,,,,,,https://github.com/testerez,trpc/trpc,1,0,0,1,bug: maxDurationMs does not interrupt the subscription when not yielding,2025-10-28,2025-10-28,2025-11-07
+quanglam2807,Quang Lam,,United States & Vietnam,@webcatalog,,,,https://github.com/quanglam2807,trpc/trpc,1,0,0,1,bug: Cannot read properties of undefined (reading 'keyPrefix'),2025-10-26,2025-10-26,2025-11-07
+felixnorden,Felix Nordén,felixnorden@gmail.com,"Lisbon, Portugal",Ignio,,felixtrnorden,,https://github.com/felixnorden,trpc/trpc,1,0,0,1,feat: Bind return type of a procedure to the input type of the `output` schema,2025-10-18,2025-10-18,2025-11-07
+luisrudge,Luís Rudge,luis@luisrudge.net,Brazil,@dailygrabsinc,,,http://luisrudge.net,https://github.com/luisrudge,trpc/trpc,1,0,0,1,bug: onError not reporting original error,2025-10-17,2025-10-17,2025-11-07
+typed-sigterm,Typed SIGTERM,typed.sigterm@gmail.com,China,,"Code is cheap, show me the proof.",,https://typed-sigterm.me/,https://github.com/typed-sigterm,trpc/trpc,1,0,0,1,feat: support WebTransport,2025-10-03,2025-10-03,2025-11-07
+noseworthy,Michael Noseworthy,,"St. John's, NL, Canada",Spellbook,,,,https://github.com/noseworthy,trpc/trpc,1,0,0,1,bug: Server Closed Subscriptions Don't Update Websocket Client Connection State,2025-09-24,2025-09-24,2025-11-07
+vass-david,David Vass,,,,,,,https://github.com/vass-david,trpc/trpc,1,0,0,1,bug: QuickStart example does not display proper types,2025-09-24,2025-09-24,2025-11-07
+cmayoracurzio,,,,,,,,https://github.com/cmayoracurzio,trpc/trpc,1,0,0,1,bug: useSuspenseQuery does not forward TRPC options to context,2025-09-21,2025-09-21,2025-11-07
+luap2703,Paul Ostarek,,"Berlin, Germany",,Just dm me!,,,https://github.com/luap2703,trpc/trpc,1,0,0,1,docs: TRPC Subscription zAsyncIterable refactoring after zod v4 migration,2025-09-20,2025-09-20,2025-11-07
+goleary,Gabe O'Leary,,"Seattle, Washington",Replo,Software Engineer @replohq,,goleary.com,https://github.com/goleary,trpc/trpc,1,0,0,1,feat: support using fetchEventSource for subscriptions,2025-09-17,2025-09-17,2025-11-07
+FunctionDJ,,,,,,,,https://github.com/FunctionDJ,trpc/trpc,1,0,0,1,docs: No docs for procedure.subscribe(),2025-09-12,2025-09-12,2025-11-07
+SamJbori,Wisam Jbori,,"Dubai, AE",Jbori Inc.,I 💯 ❤️ 😍 Typescript/Deno🦕,,jbori.net,https://github.com/SamJbori,trpc/trpc,1,0,0,1,bug:  createTRPCReact return undefined routers on split FE/BE,2025-09-06,2025-09-06,2025-11-07
+iyansr,I Putu Saputrayana,hello@iyansr.id,"Kendari, Indonesia",,"No One Good is Ever Truly Good, and No One Bad is Ever Truly Bad",,https://links.iyansr.id,https://github.com/iyansr,trpc/trpc,1,0,0,1,bug: Type become `any` when define router outside main router file with Hono,2025-09-03,2025-09-03,2025-11-07
+DownDev,Mikołaj Kruczek,,Poland,ByteFine,Fullstack developer,,,https://github.com/DownDev,trpc/trpc,1,0,0,1,bug: tRPC sends duplicate header Transfer-Encoding: chunked,2025-08-24,2025-08-24,2025-11-07
+juliangoetze,Julian,,San Francisco,stagewise,,,,https://github.com/juliangoetze,trpc/trpc,1,0,0,1,bug: httpBatchStreamLink (occasionally) closes stream prematurely,2025-08-18,2025-08-18,2025-11-07
+ankitjena,Ankit Jena,ankitjena13@gmail.com,,@coderabbitai ,Product Engineer @coderabbitai ,ankitjey,dev.to/ankitjey,https://github.com/ankitjena,trpc/trpc,1,0,0,1,bug: ReadableStream uploading is not supported on safari,2025-08-18,2025-08-18,2025-11-07
+alexandertodorovic,Alexander Todorovic,,Germany,,"I am a software developer specializing in data analytics, AI, RPA),software development with Python, SQL and JavaScript/TypeScript.",,https://alexandertodorovic.github.io/,https://github.com/alexandertodorovic,trpc/trpc,1,0,0,1,"docs: Reusable ""Base Procedures"" t.procedure replace with publicProcedure",2025-08-17,2025-08-17,2025-11-07
+cabello,Danilo Cabello,,"Toronto, Canada",Venue.ink,,,,https://github.com/cabello,trpc/trpc,1,0,0,1,feat: tanstack db adapter,2025-08-13,2025-08-13,2025-11-07
+JSteunou,Jérôme Steunou,,"Rennes, France",https://klaxoon.com,,,http://jeromesteunou.net,https://github.com/JSteunou,trpc/trpc,1,0,0,1,bug: regression / breaking since 1.4.0,2025-08-12,2025-08-12,2025-11-07
+MarcSustainableShift,Marc Issel,,,,,,www.dauri.de,https://github.com/MarcSustainableShift,trpc/trpc,1,0,0,1,bug: httpBatchLink with credentials (CORS) throws a type-error on TypeScript 5.9.x,2025-08-01,2025-08-01,2025-11-07
+hugo082,hugofqt,,Paris,@grasp-gg,"Software Engineer
+Apple 💖
+TS / k8s / GitOps / fp / DDD 🚀 ",,linkedin.com/in/hugofqt,https://github.com/hugo082,trpc/trpc,1,0,0,1,feat: client subscriber gets an AsyncIterable,2025-07-18,2025-07-18,2025-11-07
+masterbater,Jason,,,,I think my username before is cool and now its probably improper hehe. Have a good day,,,https://github.com/masterbater,trpc/trpc,1,0,0,1,docs: add upgrade path abortOnUnmount @trpc/tanstack-react-query,2025-07-16,2025-07-16,2025-11-07
+devlopermitesh,ninjacoder,,,,,,,https://github.com/devlopermitesh,trpc/trpc,1,0,0,1,Bug: useInfiniteQuery causes 400 Bad Request after .invalidate() due to auto-injected cursor: undefined,2025-07-16,2025-07-16,2025-11-07
+Bl3nd,Cody,,,,,,,https://github.com/Bl3nd,trpc/trpc,1,0,0,1,"bug: Prisma - Prisma ORM 'mode: ""insensitive""' in query",2025-07-15,2025-07-15,2025-11-07
+SimonSimCity,Simon Schick,simonsimcity@gmail.com,Germany,Munit Solutions GmbH,,,http://simonsimcity.net/,https://github.com/SimonSimCity,trpc/trpc,1,0,0,1,bug: Migrate Hooks to xxxOptions API fails on JSON import,2025-07-03,2025-07-03,2025-11-07
+jotaachm,Jota Chamorro,,,,CS Harvard '25,,,https://github.com/jotaachm,trpc/trpc,1,0,0,1,bug:,2025-07-01,2025-07-01,2025-11-07
+vedantroy,Vedant Roy,,,,,vroomerify,,https://github.com/vedantroy,trpc/trpc,1,0,0,1,bug: Incompatible router types,2025-06-25,2025-06-25,2025-11-07
+ThreeCrown,ThreeCrown,,,@OtterLodgeStudios @MandaCorpNetwork,,ThreeCrown_,otterlodgestudios.com/team/threecrown,https://github.com/ThreeCrown,trpc/trpc,1,0,0,1,feat: AppRouter Type Generation,2025-06-25,2025-06-25,2025-11-07
+chenxin-yan,Chenxin Yan,,"New York, New York",,,,www.chenxinyan.dev,https://github.com/chenxin-yan,trpc/trpc,1,0,0,1,bug: trpc does not propertly pass down zod 4.0 branded types,2025-06-21,2025-06-21,2025-11-07
+matvejs16,Matvejs Makusins,,,,,,,https://github.com/matvejs16,trpc/trpc,1,0,0,1,"bug: Server-only types in Context leak to the client, causing type portability errors",2025-06-20,2025-06-20,2025-11-07
+dinkelspiel,Willem Dinkelspiel,,,,professional developer ,,,https://github.com/dinkelspiel,trpc/trpc,1,0,0,1,bug: trpc v11.4.0 errors with Module not found: Default condition should be last one,2025-06-13,2025-06-13,2025-11-07
+mydea,Francesco Gringl-Novy,,"Vienna, Austria",Sentry.io,"Engineering Manager @ Sentry, working on the JS SDKs",,http://fnovy.com,https://github.com/mydea,trpc/trpc,1,0,0,1,"bug: ""Module not found: Default condition should be last one""",2025-06-12,2025-06-12,2025-11-07
+benjaminwaterlot,Benjamin Waterlot,,"Paris, France",Mistral AI,Fullstack software engineer @mistralai ,,,https://github.com/benjaminwaterlot,trpc/trpc,1,0,0,1,bug: `httpBatchStreamLink` responses use wrong `content-type` header (`application/json`),2025-06-12,2025-06-12,2025-11-07
+Zombobot1,,,,,,,,https://github.com/Zombobot1,trpc/trpc,1,0,0,1,bug: trpc server cannot be properly bundled with tsc + tsdown,2025-06-07,2025-06-07,2025-11-07
+YKDZ,YKDZ,3070799584@QQ.COM,,,,,,https://github.com/YKDZ,trpc/trpc,1,0,0,1,bug: Use zod v4 json schema cause type infinite error,2025-06-03,2025-06-03,2025-11-07
+saiichihashimoto,Saiichi Shayan Hashimoto,,"Austin, TX",,My name is Saiichi and my name is Shayan and that is exactly as confusing as it sounds,shayanhashimoto,saiichi.dev,https://github.com/saiichihashimoto,trpc/trpc,1,0,0,1,bug: createHydrationHelpers doesn't serialize inputs,2025-06-02,2025-06-02,2025-11-07
+alex-e-leon,Alex Leon,,Berlin,Fieldbook,Working on Fieldbook - the platform for building and running tours and experiences.,,,https://github.com/alex-e-leon,trpc/trpc,1,0,0,1,feat: Support defining type maps as an escape hatch,2025-06-02,2025-06-02,2025-11-07
+microdev1,Yash Rastogi,,,,I am a maker 🚀 with interests in fields of both hardware 🛰️ and software 💻,,,https://github.com/microdev1,trpc/trpc,1,0,0,1,feat: support tanstack solid query,2025-05-24,2025-05-24,2025-11-07
+dbartholomae,Daniel Bartholomae,,Berlin,fideus,"Daniel Bartholomae is a Berlin based founder, manager and developer. He has a faible for technology, data and self management.",,https://startup-cto.net,https://github.com/dbartholomae,trpc/trpc,1,0,0,1,feat: Support enhancing the context,2025-05-21,2025-05-21,2025-11-07
+Icestonks,Icestonks,,,,,,,https://github.com/Icestonks,trpc/trpc,1,0,0,1,docs: Disable error redaction on dehydration when using Next.js,2025-05-19,2025-05-19,2025-11-07
+justinfagnani,Justin Fagnani,justin@fagnani.com,"Oakland, CA",Stealth Mode Startup™,"I'm working on a stealth mode startup, and open web technologies like web components and Lit.",,http://justinfagnani.com,https://github.com/justinfagnani,trpc/trpc,1,0,0,1,feat: add an AbortSignal to ResolveOptions,2025-05-09,2025-05-09,2025-11-07
+rubenbase,Ruben Costa,,,Go Brand,Building @go-brand ,,https://gobrand.app,https://github.com/rubenbase,trpc/trpc,1,0,0,1,bug: tanstack start example not working,2025-05-09,2025-05-09,2025-11-07
+TheKnarf,TheKnarf,,Norway,,,,https://theknarf.com,https://github.com/TheKnarf,trpc/trpc,1,0,0,1,feat: Built inn support for generating an OpenAPI-spec,2025-05-09,2025-05-09,2025-11-07
+extradosages,Extra Dosages,extradosages.001@gmail.com,"Boston, MA",,,,,https://github.com/extradosages,trpc/trpc,1,0,0,1,bug: generated `.d.ts` files leaking un-exported types,2025-05-07,2025-05-07,2025-11-07
+printchard,Ricardo Fernández,,,,,,,https://github.com/printchard,trpc/trpc,1,0,0,1,bug: Incompatible Router types on client creation,2025-05-05,2025-05-05,2025-11-07
+AnassAb,Anass Abidar,,,,,,,https://github.com/AnassAb,trpc/trpc,1,0,0,1,docs: NextJS 15/AppRouter + tRPC + @tanstack/react-query: Integration & Code Examples,2025-05-03,2025-05-03,2025-11-07
+leanderriefel,Leander,,"Berlin, Germany",,[ger/eng],leanderriefel,leanderriefel.com,https://github.com/leanderriefel,trpc/trpc,1,0,0,1,bug: Hydration error using loading state of useQuery when prefetching,2025-05-03,2025-05-03,2025-11-07
+imsys,,,,,,,,https://github.com/imsys,trpc/trpc,1,0,0,1,docs: getErrorShape ->@deprecated: use `getTRPCErrorShape` instead. But there is no `getTRPCErrorShape` in the codebase,2025-04-29,2025-04-29,2025-11-07
+anthonyma94,Anthony Ma,,,,,,,https://github.com/anthonyma94,trpc/trpc,1,0,0,1,bug: TanStack Query above 5.66.0 breaks data return types,2025-04-28,2025-04-28,2025-11-07
+Brandon-Perry,Brandon Perry,,,,"Full-Stack Engineering at Taste Institute
+Studied @appacademy 
+Javascript | Python | React | React-Native | Redux | Flask | SQLAlcehmy | Express | HTML | CSS",,,https://github.com/Brandon-Perry,trpc/trpc,1,0,0,1,bug: tRPC client is undefined,2025-04-24,2025-04-24,2025-11-07
+Aeolun,Bart Riepe,bart@serial-experiments.com,"Suginami, Tokyo",Serial Experiments,I love cookies (the consumable kind) and coding.,,http://www.serial-experiments.com,https://github.com/Aeolun,trpc/trpc,1,0,0,1,bug: AnyTRPCRouter immediately collides,2025-04-23,2025-04-23,2025-11-07
+spaceemotion,Leonie,,Planet Earth,@novelcrafter ,,spaceemotion,https://spaceemotion.net,https://github.com/spaceemotion,trpc/trpc,1,0,0,1,bug: Zod v4 beta validation errors return empty message,2025-04-22,2025-04-22,2025-11-07
+anonrose,Kyle Rose,,"Bend, Or.",Niche Inc.,a man is nothing other than his project,,https://www.anonrose.com/,https://github.com/anonrose,trpc/trpc,1,0,0,1,feat: Move zod parsing on inputs and outputs to another thread to not block main thread,2025-04-21,2025-04-21,2025-11-07
+joelmce,Joel McElroy,,"Melbourne, Australia",@karia-tech ,I came here to kick ass and drink milk. And I'm all out of milk.,,,https://github.com/joelmce,trpc/trpc,1,0,0,1,bug: Exported variable 'router' has or is using name 'FileLike' from external module,2025-04-15,2025-04-15,2025-11-07
+gtolarc,Seok Lim,seok.lim@automata.ooo,,Automata Inc.,,,,https://github.com/gtolarc,trpc/trpc,1,0,0,1,feat: Request to Revert the Block of application/x-www-form-urlencoded in TRPC 11 (#5522),2025-04-14,2025-04-14,2025-11-07
+ryanagillie,Ryan Gillie,gillie.ryan@hotmail.com,"Tampa, FL",@RoyalAholdDelhaize ,Software Engineer II @RoyalAholdDelhaize ,ryanagillie,https://www.ryangillie.com,https://github.com/ryanagillie,trpc/trpc,1,0,0,1,bug: `useSuspenseInfiniteQueries` `typeof skipToken is not assignable to type 'QueryFunction...` Type Error,2025-04-12,2025-04-12,2025-11-07
+capaj,Jiri Spac,capajj@gmail.com,"Brno, Czech republic",,"Yeaaaah what's haaappening? If you could get those PRs reviewed before the end of the day, that would be great.",capajj,,https://github.com/capaj,trpc/trpc,1,0,0,1,feat: expose JSON schemas for all inputs/outputs,2025-04-10,2025-04-10,2025-11-07
+tstewart-klaudhaus,,,Coffs Harbour,Klaudhaus,,,https://klaudhaus.com,https://github.com/tstewart-klaudhaus,trpc/trpc,1,0,0,1,docs: 'ConnectionPendingState' incorrectly extends interface 'ConnectionStateBase<never>,2025-04-08,2025-04-08,2025-11-07
+Vincent-Alexandrine,,vincent.alexand@gmail.com,Paris,@Askmona ,,,,https://github.com/Vincent-Alexandrine,trpc/trpc,1,0,0,1,docs: httpBatchLink and file upload,2025-04-04,2025-04-04,2025-11-07
+mrmattrc,Matt Campbell,,"Springfield, MO",@bulkloads,,,https://www.bulkloads.com,https://github.com/mrmattrc,trpc/trpc,1,0,0,1,feat: Expose client contexts,2025-04-03,2025-04-03,2025-11-07
+jleveneur,Julien Leveneur,,France,Freelance,Full Stack Developer,,,https://github.com/jleveneur,trpc/trpc,1,0,0,1,bug: useSubscription() causes application freeze when opening multiple tabs (4–6+),2025-04-02,2025-04-02,2025-11-07
+iamnafets,Stefan Mai,,"Seattle, WA",,I'm older than all dogs.,iamnafets,http://iamnafets.com,https://github.com/iamnafets,trpc/trpc,1,0,0,1,bug: Sending Date from client triggers infinite loop,2025-04-01,2025-04-01,2025-11-07
+nirtamir2,,,,,,,https://nirtamir.com,https://github.com/nirtamir2,trpc/trpc,1,0,0,1,bug: `infiniteQueryOptions` is not defined for procedure with input,2025-03-31,2025-03-31,2025-11-07
+Trojanking123,Trojanking,,成都,,Ace of Diamond,,https://trojanking.com,https://github.com/Trojanking123,trpc/trpc,1,0,0,1,docs: add examples of: trpc + react-router7(remix) + cloudflare,2025-03-30,2025-03-30,2025-11-07
+eryue0220,eryue0220,eryue0220@gmail.com,Undefined,Undefined,Contributing to OSS. Currently Writing JS / TS / Rust. Learning Golang.,Cin_0220,,https://github.com/eryue0220,trpc/trpc,1,0,0,1,docs: update the doc `createTRPCClient` to the `createTRPCProxyClient`,2025-03-29,2025-03-29,2025-11-07
+seancheung,Sean,,"Hangzhou, Zhejiang/China",,"Full stack developer. 
+Interests: code and art.",,,https://github.com/seancheung,trpc/trpc,1,0,0,1,bug: Missing `dist` exports from package.json,2025-03-28,2025-03-28,2025-11-07
